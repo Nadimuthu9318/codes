@@ -1,0 +1,19 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class Main {
+    public static void main(String[] args) {
+        int n=19;
+        if (n>18){
+               System.out.println("eligible for vote");
+        }
+    else{
+                    System.out.println("not eligible for vote");
+               }
+                  
+       
+        
+     
+
+    }
+}
